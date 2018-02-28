@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Immune</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Register</string>
+</resources>

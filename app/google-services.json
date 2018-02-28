@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387513487525",
+    "firebase_url": "https://immune-bdacd.firebaseio.com",
+    "project_id": "immune-bdacd",
+    "storage_bucket": "immune-bdacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387513487525:android:60b5ef80641e97ec",
+        "android_client_info": {
+          "package_name": "naan.butter.com.immune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387513487525-d7sid8phqmia2n5vl16stgps8v2nni8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "naan.butter.com.immune",
+            "certificate_hash": "b404348b9e2dbc6deb28d2c26e0a557de59bb3c1"
+          }
+        },
+        {
+          "client_id": "387513487525-6mjqq9d0ju4tsejitbdkt45g0lr7qqi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTmhNM5QDAHcgdVFPzvFIXDGGhQtZ_b8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387513487525-6mjqq9d0ju4tsejitbdkt45g0lr7qqi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
